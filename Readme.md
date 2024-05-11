@@ -43,10 +43,8 @@
     source myvenv/bin/activate
     ```
 
-3. Change the directory to the backend folder and install dependencies:
-    ```bash
-    cd backend
-    ```
+3. Install the dependencies:
+  
     ```bash
     pip install -r requirements.txt
     ```
