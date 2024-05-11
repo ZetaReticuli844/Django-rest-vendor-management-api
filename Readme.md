@@ -32,7 +32,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ZetaReticuli844/KanoonGPT-Backend.git
+    git clone https://github.com/ZetaReticuli844/Django-rest-vendor-management-api.git
     ```
 
 2. Create a Python virtual environment:
